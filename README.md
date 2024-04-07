@@ -1,5 +1,10 @@
 # Demand-Side-Load-Management
---------- dsm.py - Python Script for the algorithm.
+
+Files:
+
+dsm.py - Python Script for the algorithm.
+
+Description:
 
 Manage load &amp; bills with Demand Side Load Management. Our algorithm shifts appliances to off-peak hours, cutting costs &amp; grid load. Get peak hour alerts &amp; control appliances via our app.
 
